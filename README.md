@@ -1,7 +1,7 @@
 # IA
 IA shopping task.
 
-##Library and global variable
+## Library and global variable
 ```python
 import csv
 import sys
